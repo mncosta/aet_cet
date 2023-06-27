@@ -1,13 +1,12 @@
 # Cycling Safety Data Augmentation in the Urban Environment
-Accident Environment Types &amp; City Environment Types
 
 
 This code explores the use of Spectral Clustering of network infrastructure data (circulation spaces from OpenStreetMap) to define Accident Environment Types (AET) and City Environment Types (CET). AET and CET can be compared to explore differences between built environment classes where cycling accidents occured versus city-wide common environments. Here, we apply this methodology to compare AET and CET from Barcelona, Spain, and New York, USA.
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
+<th> AET </th>
+<th> CET </th>
 </tr>
 <tr>
 <td>
